@@ -1,0 +1,6 @@
+Invoking command in '/mnt/d/ROS2/ros2_ws/build/p603_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /mnt/d/ROS2/ros2_ws/src/p603_description -DCMAKE_INSTALL_PREFIX=/mnt/d/ROS2/ros2_ws/install/p603_description
+Invoked command in '/mnt/d/ROS2/ros2_ws/build/p603_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /mnt/d/ROS2/ros2_ws/src/p603_description -DCMAKE_INSTALL_PREFIX=/mnt/d/ROS2/ros2_ws/install/p603_description
+Invoking command in '/mnt/d/ROS2/ros2_ws/build/p603_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /mnt/d/ROS2/ros2_ws/build/p603_description -- -j20 -l20
+Invoked command in '/mnt/d/ROS2/ros2_ws/build/p603_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /mnt/d/ROS2/ros2_ws/build/p603_description -- -j20 -l20
+Invoking command in '/mnt/d/ROS2/ros2_ws/build/p603_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /mnt/d/ROS2/ros2_ws/build/p603_description
+Invoked command in '/mnt/d/ROS2/ros2_ws/build/p603_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /mnt/d/ROS2/ros2_ws/build/p603_description
