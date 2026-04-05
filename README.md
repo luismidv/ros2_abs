@@ -42,9 +42,9 @@ For more detailed instructions, refer to the [official Microsoft WSL documentati
    ```bash
    cd ~
    ```
-3. Clone the Flexley Stack Load Perception repository:
+3. Clone the Flexley Stack Load Perception repository (ssh key needed):
    ```bash
-   git clone https://bitbucket.org/astimr/flexley-stack-load-perception.git
+   git clone git@bitbucket.org:astimr/flexley-stack-load-perception.git
    ```
 4. Wait for the cloning process to complete
 
